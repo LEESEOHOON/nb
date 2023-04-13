@@ -19,8 +19,8 @@
 
 * 사용 기술 :
   * Tool : eclipse , editplus++ , github(egit)
-  * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Web Servlet MVC / HTML 
-  * DB : ORACLE 11g SQL Developer
+  * Tech : JAVA(JSP / MVC2 / Servlet ) / JavaScript / CSS / JQUERY / Ajax / HTML / Bootstrap 
+  * DB : ORACLE 11 SQL Developer
   * Server : Tomcat 9.0
 
 ## 업데이트 내역
